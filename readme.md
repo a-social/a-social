@@ -4,9 +4,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
-
-<!--
+<p>
 <p align="center">
+<img align="center" width="350" src="/assets/githubsgif.gif" alt="Coding gif" />
+<!--
+</p>
+<p align="center">
+
   <a href="https://github.com/a-social"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
@@ -24,6 +28,7 @@
                 <b><a target="_blank" href="https://github.com/a-social">A_Social</a></b>
         </samp>
 </h3>
+
 
 
 <p align="center"> 
