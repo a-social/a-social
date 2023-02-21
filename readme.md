@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://github.com/a-social">「 Google Me 」</a>
+    <a href="https://github.com/a-social">「 Github on me 」</a>
     <br>
     「 I am Mobile Developer  」
     <br>
